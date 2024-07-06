@@ -40,7 +40,7 @@ body:  SafeArea(
                 
               ],
             ),
-             Row(
+             Row(  
               children: [
                 Padding(
                   padding: const EdgeInsets.all(8.0),
